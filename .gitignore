@@ -1,0 +1,14 @@
+# ===== PYTHON / FLASK (BACKEND) =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+.env
+.env.*
+
+# Virtual environments
+venv/
+ENV/
+env/
